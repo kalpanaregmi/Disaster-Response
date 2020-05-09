@@ -23,7 +23,15 @@ This project is to classify disaster response messages through machine learning.
 #Lastly move to the app folder and run the below command.
 
 > python run.py
+
 #Screenshot
-##First page
-![idis](https://user-images.githubusercontent.com/31299019/81468932-0634cb80-9200-11ea-9500-e66cde26d76d.png)
+
+##Second Page
+
+![ids2](https://user-images.githubusercontent.com/31299019/81468969-38462d80-9200-11ea-82ce-3a52f3a84791.png)
+
+
+
+
+
 
